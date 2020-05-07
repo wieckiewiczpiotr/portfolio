@@ -3,7 +3,7 @@ This repository contains few sample analyzes and visualizations I prepared to sh
 
 ## Machine Learning
 
-* [Real estates in Riga - price predictions and analysis](https://github.com/piotrwieckiewicz/Portfolio/blob/master/riga_real_estate/riga.ipynb)
+* [Real estates in Riga - price predictions and analysis](https://github.com/piotrwieckiewicz/portfolio/blob/master/riga_real_estate/riga_price_prediction.ipynb)
 
 In this project I focus on cleaning the data, exploratory data analysis (EDA) and creating some simple machine learning models aimed at predicting prices for the sale and rental of real estates.
 
